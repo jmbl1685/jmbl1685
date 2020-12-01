@@ -1,6 +1,6 @@
 
 
-![github-readme-profile](![image](https://user-images.githubusercontent.com/22874642/182284838-a7a148a2-e667-46b6-80e3-7ea08612ef6c.png))
+![github-readme-profile](https://user-images.githubusercontent.com/22874642/182284838-a7a148a2-e667-46b6-80e3-7ea08612ef6c.png)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jmbl1685?style=social)](https://twitter.com/jmbl1685)
