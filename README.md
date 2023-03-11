@@ -11,4 +11,3 @@
 
 - 👨🏻‍💻 Senior Full Stack Developer at @IXily.
 - ⚡️ Current stack: Angular, Firebase, Cypress, Nodejs, Express, Typescript, PostgreSQL, Redis, Google Cloud Platform, CI/CD (GCloud Build), Tests (Mocha + Chai), Docker, etc
-- 🌐 Blockchain stack: Hardhat, Solidity, AlchemySDK, LIT-Protocol, ERC-1155 Standard (NFT), IPFS/NFT.Storage, Metamask, etc
