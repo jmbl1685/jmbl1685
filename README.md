@@ -10,5 +10,5 @@
 ## About me
 
 - 👨🏻‍💻 Senior Full Stack Developer at Odev (https://odev.tech)
-- ⚡️ Current web2 stack: Angular, Firebase, Cypress, Nodejs, Express, Typescript, PostgreSQL, Redis, Google Cloud Platform, CI/CD (GCloud Build), Tests (Mocha + Chai), Docker, etc
-- ⚡️ Current web3 stack: Solidity, Hardhat, ERC-1155 Standard, Lit Protocol, WeaveDB, Siwe, NFT.Storage
+- ⚡️ Current web2 stack: Angular, React, Firebase, Cypress, Nodejs, Express, Typescript, PostgreSQL, Redis, Google Cloud Platform, AWS, CI/CD (GCloud Build and Github Actions), Tests (Mocha + Chai), Docker, etc
+- ⚡️ Current web3 stack: Solidity, Hardhat, ERC-1155/ERC-20 Standard, Lit Protocol, WeaveDB, Siwe, NFT.Storage, Ether.js, etc
