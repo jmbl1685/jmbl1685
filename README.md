@@ -1,10 +1,24 @@
+<h2 align="center">Hi, I'm Juan Batty 👋</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=E94335&center=true&vCenter=true&width=600&lines=Building+ideas+into+things;Senior+Full-Stack+Engineer;Turning+ideas+into+products" alt="Building ideas into things" />
+</p>
 
-![github-readme-profile](https://user-images.githubusercontent.com/22874642/182284838-a7a148a2-e667-46b6-80e3-7ea08612ef6c.png)
+<p align="center">
+  Senior Full-Stack Engineer at <a href="https://odev.tech">Odev</a> · Cartagena, Colombia
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,threejs,postgres,redis,gcp,aws,docker&perline=10" alt="TypeScript, React, Angular, Node.js, Three.js, PostgreSQL, Redis, GCP, AWS, Docker" /></a>
+</p>
 
-## About me
+<p align="center">
+  <a href="https://juanbatty.com"><img src="https://img.shields.io/badge/juanbatty.com-e94335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="juanbatty.com" /></a>
+  <a href="https://odev.tech"><img src="https://img.shields.io/badge/Odev-238636?style=for-the-badge&logo=rocket&logoColor=white" alt="Odev" /></a>
+  <a href="https://github.com/jmbl1685"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-- 👨🏻‍💻 Senior Full Stack Developer at Odev (https://odev.tech)
-- ⚡️ Current web2 stack: Angular, React, Firebase, Cypress, Nodejs, Express, Typescript, PostgreSQL, Redis, Google Cloud Platform, AWS, CI/CD (GCloud Build and Github Actions), Tests (Mocha + Chai), Docker, etc
-- ⚡️ Current web3 stack: Solidity, Hardhat, ERC-1155/ERC-20 Standard, Lit Protocol, WeaveDB, Siwe, NFT.Storage, Ether.js, etc
+<p align="center">
+  <i>"When we strive to become better than we are, everything around us becomes better too."</i><br/>
+  — Paulo Coelho
+</p>
