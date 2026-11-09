@@ -13,11 +13,11 @@
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" /></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" /></a>
   <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" /></a>
-  &nbsp;•&nbsp;
+  &emsp;
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" /></a>
   <a href="https://angular.dev"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" /></a>
   <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" /></a>
-  &nbsp;•&nbsp;
+  &emsp;
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" /></a>
   <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40" /></a>
   <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" /></a>
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  More info, visit <a href="https://juanbatty.com"><img src="https://img.shields.io/badge/juanbatty.com-e94335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="juanbatty.com" /></a>
+  <a href="https://juanbatty.com"><img src="https://img.shields.io/badge/More_info-juanbatty.com-e94335?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=30363d" alt="More info: juanbatty.com" /></a>
 </p>
 
 <p align="center">
