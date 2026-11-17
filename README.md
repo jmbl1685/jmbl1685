@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://juanbatty.com"><img src="https://img.shields.io/badge/More_info-juanbatty.com-e94335?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=30363d" alt="More info: juanbatty.com" /></a>
+  <a href="https://juanbatty.dev"><img src="https://img.shields.io/badge/More_info-juanbatty.dev-e94335?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=30363d" alt="More info: juanbatty.dev" /></a>
 </p>
 
 <p align="center">
